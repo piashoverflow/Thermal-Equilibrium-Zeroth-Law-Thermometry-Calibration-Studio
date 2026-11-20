@@ -1,0 +1,8 @@
+{
+  "name": "Thermal Equilibrium, Zeroth Law & Thermometry Calibration Studio",
+  "description": "Interactive physics laboratory simulation exploring thermal equilibrium, the Zeroth Law of Thermodynamics, multi-scale thermometry, faulty thermometer calibration, and the triple-point single fixed-point method.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
